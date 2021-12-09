@@ -1,0 +1,29 @@
+{
+  "name": "bootstrapdist",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DBootstrap-projects\"",
+  "main": "home.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamakanthRGunishetty/Bootstrap-5-websites.git"
+  },
+  "author": "Ramakanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamakanthRGunishetty/Bootstrap-5-websites/issues"
+  },
+  "homepage": "https://github.com/RamakanthRGunishetty/Bootstrap-5-websites#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}

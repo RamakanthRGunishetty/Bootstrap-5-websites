@@ -18,14 +18,14 @@ body {
   background-size: cover;
 }
 
-.main-content {
+.content {
   background-color: #ffffff;
   min-height:600px;
 }
 
-.footer {
+/* .footer {
   height: 40px;
-}
+} */
 
 body {
   padding-bottom: 30px;
@@ -36,4 +36,16 @@ body {
 .navbar {
   background-color:#B9B2B0 ;
   
+}
+
+.row-2-footer {
+  color: #F7773F;
+}
+
+.row-3 {
+  color: #5e72e7;
+}
+
+.row-3-footer {
+  color: #799100;
 }
